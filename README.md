@@ -1,4 +1,6 @@
-# cric_comp
+# Aquiring Data
+
+All of the data (head to head, individual records, team stats) were scraped from ESPNcricInfo.
 
 # Predictions
 
